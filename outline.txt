@@ -1,0 +1,20 @@
+- App/
+    - __init__.py
+    - static/
+        - css/
+            - main.css
+        - js/
+            - main.js
+        - images/
+    - templates/
+        - base.html
+        - index.html
+        - instructor.html
+        - student.html
+        - search.html
+    - models.py
+    - views.py
+    - routes.py
+- venv/
+- requirements.txt
+- run.py
