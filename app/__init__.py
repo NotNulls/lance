@@ -11,3 +11,6 @@ bootstrap = Bootstrap(app)
 migrate = Migrate(app, db)
 
 from app import routes
+
+from app.main import bp as main_bp
+app.register_blueprint(main_bp)

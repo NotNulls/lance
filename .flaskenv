@@ -1,0 +1,4 @@
+SECRET_KEY='d288e4db2aa230ffda34673234ebb3d3a61cfb9e5e9d2e856a6feb751807f359'
+MAIL_SERVER='localhost'
+MAIL_PORT=25
+FLASK_APP="slopelancers.py"
